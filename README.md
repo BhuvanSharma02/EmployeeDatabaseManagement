@@ -7,3 +7,4 @@ Screen Recording of the working of the Application:
 
 https://github.com/BhuvanSharma02/EmployeeDatabaseManagement/assets/121033984/0dad44e7-6714-4bbf-ab1e-c0f099f4fadf
 
+To connect it with the database execute the sql queries from the Company.sql file you can rename the database name according to your preference (Keep it simple as you are required to write it during the launch of the applicaiton)
